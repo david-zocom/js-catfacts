@@ -1,4 +1,7 @@
 body {
-  background-color: cadetblue;
-  /* cursor:progress; */
+	background-color: cadetblue;
+}
+
+.fact {
+	margin-bottom: 0.5em;
 }
